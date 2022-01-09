@@ -17,7 +17,9 @@ There is a need also to define the parameters of the MCMC simulation:
        - nomit: burn-in 
        
 By default, the prior of rho is elicitated in the positive range (0,1]
+
 BS-PSM uses some functions of James LeSage Spatial Econometrics Toolbox
+
 To run an example file check BSPSM_poverty_example.m
 
 [![View Bayesian spatial PSM on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/104730-bayesian-spatial-psm)
